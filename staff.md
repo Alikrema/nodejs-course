@@ -4,23 +4,15 @@ title: Staff
 description: A listing of all the course staff members.
 ---
 
-# Staff
-
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
-
-## Instructors
+# Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+## Bio
+Ali Krema graduated from the University of Pennsylvania Class of 2023, majoring in Computer Science. As of July 2024, he works as a Backend Engineer at Aydi. His current teaching experience include:
 
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+- Teaching Assistant @ UPenn's CIS2400: Intro to Computer Systems (Fall 2021 - Fall 2022)
+- Instructor @ UPenn's CIS1950: Intro to Android Development (Spring 2023)

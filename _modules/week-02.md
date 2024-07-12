@@ -1,23 +1,12 @@
 ---
-title: Basic Data Structures
+title: Intro to Express + SOA (Jul 7)
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+**Slides**
+: None
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+**Code**
+: [SOA Sample Code](https://github.com/Alikrema/SOA-sample)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+**Assignment**
+: [Movie Management Server](https://alikrema.github.io/nodejs-course/assignment_1/)

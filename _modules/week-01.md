@@ -1,23 +1,12 @@
 ---
-title: Introduction to Java
+title: Event Loop + HTTP (Jul 2)
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+**Slides**
+: [Sync vs. Async + Event Loop](https://excalidraw.com/#json=4gS5Tc8e_aYUOPQ_R-BFu,hyvtH_EO9L2ULAUEBkQuag)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+**Code**
+: [Multiple Code Snippets](https://github.com/Alikrema/nodejs-session-2)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+**Assignment**
+: None
